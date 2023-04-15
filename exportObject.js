@@ -1,5 +1,5 @@
-const Object = {
+const person = {
     firstName = "John",
     lastName = "Wilson"
 };
-module.exports = Object;
+module.exports = person;
